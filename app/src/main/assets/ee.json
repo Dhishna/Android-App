@@ -1,0 +1,35 @@
+{
+"events":
+[
+{
+"name":"DRONE PRIX",
+"image":"ee1",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"36K",
+  "rules":["<TBA>"],
+  "contact":["<TBA>"]
+},
+{
+"name":"ELECTROTHON",
+"image":"ee2",
+  "details":"This is basically an electrical and electronics based quiz. It is a two level event. The preliminary round will be written quiz and from it 4 teams will be selected for the final show down. A team can have a group 2max. ",
+  "description":"<TBA>",
+  "prizepool":"4.5K",
+  "rules":["<TBA>"],
+  "contact":["98471 67234(Milan)"]
+},
+  {
+    "name":"CIRCUIT DEBUGGING",
+    "image":"ee3",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"7.5K",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+  }
+
+
+]
+}

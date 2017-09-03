@@ -1,0 +1,99 @@
+{
+"events":
+[
+{
+"name":"BRIDGE CONSTRUCTION",
+"image":"ce1",
+"details":"<TBA>",
+"description":"<TBA>",
+"prizepool":"9K",
+"rules":[
+  "Entry Fee: 200",
+  "1. A team of maximum three persons",
+  "2. Event will be time bound (3 hours)",
+  "3. Materials will be provided ( popsicles, glue, chart papers )",
+  "4. Participants could bring sketch pens, markers poster, colours/acrylic paints if required",
+  "5. Participants are not allowed to use their mobile phones or laptops",
+  "6. They could bring their own calculators",
+  "7. The bridge should be able to take up a minimum load that will be instructed.",
+  "8. Any extra materials used or or if the bridge failed to carry the minimum load given they will be disqualified",
+  "9. The design that takes the maximum load wins",
+  "10.Minimum span is 450mm",
+  "11.Pinning, clamping or non-white glue are not allowed to be used for connections."
+
+],
+  "contact":["91 8281 549 928(Amal Pradeep)"]
+},
+{
+"name":"CAD ZAKEIA",
+"image":"ce2",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"25K",
+  "rules":[
+    "No entry Fee",
+    "1.No internet usages",
+    "2.Contestants cant Bring their designs.",
+    "3.Time limit is 3 hours ."
+  ],
+    "contact":["91 8281 549 928(Amal Pradeep)"]
+},
+  {
+    "name":"TREASURE HUNT",
+    "image":"ce3",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"11K",
+    "rules":["Entry Fee:Rs 300",
+      "1.Each team can register as a individuals or team of pairs ",
+      "2.Final teams will be announced after the prelims. ",
+      "3.Each team will be provided with a map containing details.",
+      "4.There are 3 rounds ",
+      ".Electronic gadgets usage is not allowed"
+    ],
+    "contact":["91 8281 549 928(Amal Pradeep)"]
+  },
+  {
+    "name":"INNOVATIONS IN CIVIL ENGG.",
+    "image":"ce4",
+
+    "details":"Paper Presentation on: INNOVATIONS IN CIVIL ENGINEERING",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":[
+      "Entry Fee: Rs300",
+      "1. Maximum number of participants in a Team is 2.",
+      "2. The topics that the papers need to be based on are suggestive. It is advisable that the presentation focuses on one particular topic. Report should be well comprehended, albeit advanced which could appeal to an undergraduate.",
+      "3. Abstract should not exceed 1 page and Paper should not exceed 15 pages.",
+      "4. Bring your college I-Card on event day.",
+      "5. Please bring your PowerPoint presentation on a CD or on a pen-drive.",
+      "6. Soft-copies of the submitted paper and PowerPoint presentations must be in the .ppt or .docx format.",
+      "7. Please Mail your abstract, paper and ppt to dhishnacivil@gmail.com.",
+      "8. Difficulties will be addressed through the same email-id.",
+      "9. Please bring 2 hardcopies of the submitted paper on the day of the event.",
+      "10. The teams will get 10 minutes for presentation followed by question and answer session.",
+      "11. Participants from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.",
+      "12. The mail with submissions should contain:
+• Title- theme of the paper.
+• Name of both the authors .
+• Contact number of both the authors.
+• E- mail ID .",
+"13. Paper must contain index, list of tables, abstract, introduction, point wise description of subject and conclusion and references.",
+"14. Paper must be preceded by a cover page specifying the title of the paper, names of authors and their college names as also their contact numbers and email ids.",
+"15. Last day to submit soft copy of your report (via e-mail) will be 5 days prior to the day of presentation.",
+"16. After the submission of your soft copy, a panel of judges will go through the material and if you are shortlisted to give the presentation, you will be notified.",
+"17. The abstract mail should contain abstract, references, your e-mail id and mobile number.",
+"18. The decision of judges will be final and no arguments or appeal will be entertained.
+Last day for submission of softcopy: 01/02/2017
+Date of publishment of shortlisted contestants: 02/02/2017
+Date of Paper presentation:03/01/2017"
+
+    ],
+    "contact":["91 8281 549 928(Amal Pradeep)"
+    ]
+
+  }
+
+]
+}

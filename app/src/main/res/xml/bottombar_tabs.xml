@@ -1,0 +1,38 @@
+<tabs xmlns:app="http://schemas.android.com/apk/res-auto">
+    <tab
+        id="@+id/tab_sponsors"
+        icon="@drawable/comp"
+        title="Sponsors"
+        barColorWhenSelected="#2c3e50"
+        font-family="ssla"
+
+
+        />
+
+    <tab
+        id="@+id/tab_events"
+        icon="@drawable/comp"
+        title="Competitions"
+        barColorWhenSelected="#2980b9"
+
+        />
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/comp"
+        title="Home"
+        barColorWhenSelected="#2ecc71"
+
+
+        />
+    <tab
+        id="@+id/tab_eventCal"
+        icon="@drawable/comp"
+        title="Workshops"
+        badgeHidesWhenActive="false"
+        barColorWhenSelected="#e74c3c"/>
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/comp"
+        title="Contact Us"
+        barColorWhenSelected= "#9b59b6"/>
+</tabs>

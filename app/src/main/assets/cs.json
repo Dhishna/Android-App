@@ -1,0 +1,60 @@
+{
+"events":
+[
+{
+"name":"SURF KING",
+"image":"cs1",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"5K",
+  "rules":["<TBA>"],
+  "contact":["<TBA>"]
+},
+{
+"name":"CODE RELAY",
+"image":"cs2",
+  "details":"A team will be given a ready to be runned program on output screen. Through various output combinations the team has to find the source code of the program.",
+  "description":"",
+  "prizepool":"18K",
+  "rules":[
+    "Fee: Rs. 400 No of Participants: 4",
+    "1. A team should have 4 members.",
+    "2. Each time should submit their program code in written form before 45th minute.",
+    "3. No electronic gadgets or reference book are allowed.",
+"Finals:1. Only the first and last person can have the problem/ situation known . It cannot be shared in any form to other teammates till end of the game.",
+"Final: 2. No electronic gadgets are allowed inside the lab.", "Finals: 3. 20+15+15+10 mins will be provided for each team.",
+"Final:4. Coding can be done in either java or c++."  ],
+"contact":[
+  "+91 7736 263 274(Tess)"
+]
+},
+{
+    "name":"PRODUCT LAUNCH ",
+    "image":"cs3",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+  },
+  {
+    "name":"DEBUGGING",
+    "image":"cs4",
+
+    "details":"An erroneous source code will be given to a team of 2 members. The first team to successfully debug the program and compile it wins.",
+    "description":"<TBA>",
+    "prizepool":"5K",
+    "rules":[
+      "Fee:Rs.50
+    No of Participants: 2",
+    "1. No electronic gadgets are allowed inside the lab.",
+    "2. No reference books allowed.",
+    "3. Each team should have two members."
+    ],
+    "contact":["<TBA>"]
+
+  }
+
+]
+}

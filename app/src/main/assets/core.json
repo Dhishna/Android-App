@@ -1,0 +1,94 @@
+{
+"events":
+[
+{
+"name":"PHOTOGRAPHY",
+"image":"core1",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"<TBA>",
+  "rules":["<TBA"],
+  "contact":[
+    "<TBA>"
+  ]
+},
+{
+"name":"DANCE",
+"image":"core2",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"<TBA>",
+  "rules":["<TBA"],
+  "contact":[
+    "<TBA>"
+  ]
+},
+  {
+    "name":"TROLL",
+    "image":"core3",
+    "details":"Dhishna Presents to you a unique Troll competition.",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["Submit your entries to troll@dhishna.org",
+"Topic:Current Affairs",
+"Judge:Hrishikesh Bhaskaran(ICU FB page Admin)"],
+"contact":[
+  "9400755858(Vishnu)",
+  "7012032486(Arshak)"
+]
+  },
+  {
+    "name":"AUTO EXPO",
+    "image":"core4",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["<TBA"],
+    "contact":[
+      "<TBA>"
+    ]
+
+  },
+  {
+    "name":"QUIZ",
+    "image":"core5",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["<TBA"],
+    "contact":[
+      "<TBA>"
+    ]
+
+  },
+  {
+    "name":"WASTE RECYCLE",
+    "image":"core6",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["<TBA"],
+    "contact":[
+      "<TBA>"
+    ]
+},
+{
+  "name":"PROJECT EXPO",
+  "image":"core7",
+
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"<TBA>",
+  "rules":["<TBA"],
+  "contact":[
+    "<TBA>"
+  ]
+
+
+}
+
+]
+}

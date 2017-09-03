@@ -1,0 +1,61 @@
+{
+"events":
+[
+{
+"name":"ALGOHACK",
+"image":"it1",
+  "details":"45 minutes and 1 problem to solve",
+  "description":"<TBA>",
+  "prizepool":"9K",
+  "rules":[
+    "1.No electronic gadgets are allowed inside the lab",
+    "2.No reference books allowed",
+    "3.C,C++,Java may be used"
+  ],
+  "contact":
+  [
+  "+91 7736 679 127(Yadu)"
+  ]
+},
+{
+"name":"SOLVE IT ALL",
+"image":"it2",
+  "details":"How confident are you of your Coding Skills ? Do you have what it takes to 'solve it all'?",
+  "description":"<TBA>",
+  "prizepool":"9K",
+  "rules":[
+    "Entry Fee of Rs 200",
+    "A set of questions related to coding will be asked",
+    "Answering majority of the questions will take you to the final round where you solve/complete a code",
+    "1.No electronic gadgets are allowed inside the lab",
+    "2.No reference books are allowed",
+    "3.All code algorithms and answers must be submitted on time"
+  ],
+  "contact":
+  [
+  "+91 7736 679 127(Yadu)"
+  ]
+},
+  {
+    "name":"LIFEHACKS",
+    "image":"it3",
+
+    "details":"code your way to an easy life",
+    "description":"<TBA>",
+    "prizepool":"15K",
+    "rules":[
+      "Only succesfully compiled programs will be judged",
+      "1.No electronic gadgets are allowed inside the lab",
+      "2.No reference books are allowed",
+      "3.All code algorithms and answers must be submitted on time"
+
+   ],
+   "contact":
+   [
+   "+91 7736 679 127(Yadu)"
+   ]
+  }
+
+
+]
+}

@@ -1,0 +1,94 @@
+{
+"events":
+[
+{
+"name":"ROBOWAR",
+"image":"ec1",
+  "details":"The Ultimate Battle of Robots",
+  "description":"<TBA>",
+  "prizepool":"35K",
+  "rules":[
+    " Robots will be divided into two groups. Each robot will have to face every member of its own group and the top four will move to the semi-finals. Points are awarded based on the following fields - speed, skill, controlling ability and strength. Each bot will have to travel through an inclined surface in order to reach the battlefield. The bot quicker to reach the centre line first will receive bonus points. If any bot remains tangled in the hurdles for more than an allotted time, the opponent will be rewarded points.",
+  "1. Distribution of bonus points will only be announced one hour prior to the event.",
+  "2. Knocking the opponent off the arena-20 point",
+  "3. Immobilising it for 10 seconds - 10 point",
+  "4.Each team can have up to five members.",
+  "5.Registrations close at 10.00 am of the day of event.",
+  "6.It is not mandatory for all the members of a team to be from the same institution.",
+  "7.The Robot must be manually controlled through wired/wireless interface. Maximum permitted dimensions of the robot are 60 cm X 60 cm X 60 cm and its weight must not exceed 25 kg.",
+  "8.Each robot must have its own power supply not exceeding 24V. However a power point(230V AC) will be provided for recharging batteries or to power your supply.
+ Far-fetched ideas of implementing fire, lubricants,cutting blades,rotating weights etc. for attack will not be entertained. If any bot found unsafe for audience, will not be allowed to participate",
+"9.All teams will have to have their bots inspected by the coordinators both before and after each stage.
+ Teams are permitted to make minor changes to the body of their robot after every stage if they wish; but modifying the entire body of the robot will not be permitted.",
+ "10.Arena will be disclosesd only at the time of the event.",
+ "11.Only two members from each team are allowed to operate the bot during each stage.Both members are allowed to control the bot staying behind the board. So the wire must be of sufficient length in order to cover the entire arena.",
+ "12.Any team/team member found disrespecting the rules/other competitors, will be disqualified.",
+ "13.Coordinators can change the event format at any time during the event.",
+ "14.The decision of the judges will be final and binding."
+
+],
+"contact":[
+  "+918281941421(Akhil Chandran)",
+  "+919400916805(Arjun Udayakumar)"
+]
+},
+{
+"name":"ACCELERODRIVE",
+"image":"ec2",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"40K",
+  "rules":["<TBA>"],
+  "contact":[
+    "<TBA>"
+  ]
+},
+{
+    "name":"KARNAUGH'S RUINS",
+    "image":"ec3",
+  "details":"Karnaugh’s ruins is a fun packed event in which the participating teams will be given logical puzzles to be solved at each station, which when solved will lead to a series of clues to guide the team to a new location. Six stations are included in the event and the clues will be hidden within the School of Engineering campus boundary. Teams should hunt for the clues after solving the puzzles given to them and return to the headquarters. In the finishing point the team will have to solve a final set of puzzles. The team which does this job first is the winner. ",
+  "description":"<TBA>",
+  "prizepool":"13K",
+  "rules":["<TBA>"],
+  "contact":[
+    "  +918281941421(Akhil Chandran)"
+  ]
+},
+{
+    "name":"HACKER 86",
+    "image":"ec4",
+
+  "details":"DEPARTMENT OF ELECTRONICS AND COMMUNICATION, CUSAT in association with DHISHNA-2017 presents HACKER86, a coding competition in assembly language for 8086 microprocessor. A great chance for brilliant minds to blaze their skills of programming in a competitive environment!!!
+",
+  "description":"<TBA>",
+  "prizepool":"6K",
+  "rules":["This is an individual event","Participants should produce a valid identity card of the institution he is associated with.","A preliminary round will be conducted from which the best of the lot would be selected for further levels","Use of Mobile phones, Tablets or any other electronic gadgets will not be permitted amidst the event ","Decision of the judges is final and binding to all "]
+  ,
+  "contact":["9539008262(Noel)"]
+
+  },
+  {
+    "name":"VR EXPERIENCE ZONE",
+    "image":"ec5",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"7K",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+
+  },
+  {
+    "name":"AEROGAMY & RUBIX HERO",
+    "image":"ec6",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"<TBA>",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+
+  }
+
+]
+}

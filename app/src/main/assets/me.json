@@ -1,0 +1,45 @@
+{
+"events":
+[
+{
+"name":"LATHE MASTER",
+"image":"me1",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"10K",
+  "rules":["<TBA>"],
+  "contact":["<TBA>"]
+},
+{
+"name":"ENGINE ASSEMBLY",
+"image":"me2",
+  "details":"<TBA>",
+  "description":"<TBA>",
+  "prizepool":"10K",
+  "rules":["<TBA>"],
+  "contact":["<TBA>"]
+},
+  {
+    "name":"CONTRAPTION",
+    "image":"me3",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"10K",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+  },
+  {
+    "name":"COAL MINE",
+    "image":"me4",
+
+    "details":"<TBA>",
+    "description":"<TBA>",
+    "prizepool":"60K",
+    "rules":["<TBA>"],
+    "contact":["<TBA>"]
+
+  }
+
+]
+}
